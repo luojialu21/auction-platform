@@ -1,0 +1,7 @@
+userID,username,password,phone,address,balance,userState
+U001,Alice,123456,12345678,abc,1681.3,active
+U002,Bob,123456,12345678,def,954.0,active
+U003,nancy,12345,1550472,ghi,0.0,active
+U004,tom,1234,1384727,xyz,0.0,active
+U005,qwe,qwe,11,1 d d,0.0,active
+U006,ljl,123456,1550472,nj xl,1000.0,active

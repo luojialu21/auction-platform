@@ -1,0 +1,5 @@
+comID,comName,price,number,description,sellerID,addedDate,state
+M001,Icon,100.0,0,Item Desc 1,U001,2022-10-06,removed
+M002,IceBlock,10.0,0,Item Desc 2,U001,2022-10-07,removed
+M003,ice cola,5.0,84,cold,U001,2022-10-05,removed
+M004,ny cap,399.0,99,baseball,U001,2022-10-10,onAuction
